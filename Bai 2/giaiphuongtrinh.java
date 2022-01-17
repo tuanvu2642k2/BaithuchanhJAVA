@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Test {
+public class giaiphuongtrinh {
     public static void main(String[] args) {
         double a, b, c, x1, x2, delta;
         Scanner scanner = new Scanner(System.in);
