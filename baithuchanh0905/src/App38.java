@@ -1,7 +1,7 @@
+package src;
 import java.util.LinkedList;
-import java.util.Scanner;
 
-public class app38 {
+public class App38 {
     public static void main(String[] args) {
         LinkedList<Double> lll = new LinkedList<>();
         lll.add(33123.03);

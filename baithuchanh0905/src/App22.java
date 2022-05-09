@@ -1,7 +1,9 @@
+package src;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class app22 {
+public class App22 {
     public static void main(String[] args) {
         ArrayList<Integer> arrl = new ArrayList<>();
         Scanner sc = new Scanner(System.in);

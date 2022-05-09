@@ -1,6 +1,8 @@
+package src;
+
 import java.util.ArrayList;
 
-public class app20 {
+public class App20 {
     public static void main(String[] args) {
         ArrayList<Double> arr = new ArrayList<>();
         System.out.println(arr.isEmpty());
