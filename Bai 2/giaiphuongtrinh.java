@@ -22,5 +22,6 @@ public class giaiphuongtrinh {
             x2 = (-b - Math.sqrt(delta)) / (2 * a);
             System.out.println("Phuong trinh co hai nghiem x1 = " + x1 + " và x2 = " + x2);
         }
+        scanner.close();
     }
 }
